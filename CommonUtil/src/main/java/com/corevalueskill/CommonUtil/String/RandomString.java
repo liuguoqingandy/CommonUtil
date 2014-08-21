@@ -44,6 +44,7 @@ public class RandomString {
 		return buffer.toString();
 	}
 
+	/*
 	public static void main(String[] args) {
 		System.out.println(getRandomString(4).toUpperCase() + "-"
 				+ getRandomString(4).toUpperCase() + "-"
@@ -52,5 +53,6 @@ public class RandomString {
 
 		System.out.println(getRandomStringWithNumber(7));
 	}
+	*/
 
 }
